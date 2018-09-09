@@ -1,2 +1,2 @@
 # giggleglum
-website for netlify
+Source for my netlify website
